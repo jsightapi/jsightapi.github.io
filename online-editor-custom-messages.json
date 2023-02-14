@@ -1,7 +1,7 @@
 [
     {
         "id": "R1-just-a-message",
-        "regex": "https://editor.jsight.io/r/YLDDWLd/1",
+        "regex": "https:\\/\\/editor\\.jsight\\.io\\/r\\/YLDDWLd\/1",
         "content": "<div><p>Just a message!<p></div>"
     },
     {
