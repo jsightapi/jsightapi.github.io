@@ -2,7 +2,7 @@
     {
         "id": "fastfield",
         "regex": "7Lk2zNj",
-        "content": "<iframe src=\"https://www.fastfieldwebforms.com/eu/webforms/0ca5807d-4b0f-4628-bc34-8d0ccbb79a8d\" height=\"300\" width=\"500\" allow=\"camera;microphone;geolocation\"></iframe>"
+        "content": "<iframe src=\"https://www.fastfieldwebforms.com/eu/webforms/0ca5807d-4b0f-4628-bc34-8d0ccbb79a8d\" allow=\"camera;microphone;geolocation\"></iframe>"
     },
     {
         "id": "R3-jotform-script",
