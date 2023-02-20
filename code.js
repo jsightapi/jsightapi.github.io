@@ -31,6 +31,6 @@ const name = document.getElementById('aiform-name').value;
                 return false;
             });
 
-            document.getElementById('jsightai-form').innerHTML = '<p>Your API improvement request has been submitted. JSight API will send you the response soon.</p>';
+            document.getElementById('jsightai-form').innerHTML = '<p>Your API improvement request has been submitted. JSight AI will send you the response soon.</p>';
             
             return false;
