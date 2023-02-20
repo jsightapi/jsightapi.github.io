@@ -2,7 +2,7 @@
     {
         "id": "own",
         "regex": "editor",
-        "content": "<h1>JSight AI</h1><p>Our smart JSight AI can automatically improve your “GYM REST API” API design. <br />Please fill your name and email and press the “Improve API” button.</p><div><form><label for=\"name\">Name:</label><input type=\"text\" id=\"name\"/><br/><label for=\"email\">Email:</label><input type=\"text\" id=\"email\"/><br/><button>Improve API</button></form></div>"
+        "content": "<html ><body ><style> #aiform button {background: #8338ff; border-radius: 4px; box-shadow: 0 4px 16px rgb(131 56 255 / 25%), 0 0 12px rgb(131 56 255 / 4%), 0 2px 2px rgb(131 56 255 / 5%); color: #fff; font-size: 1.6rem; font-weight: 600; line-height: 2.4rem; margin-right: 20px; padding: 1rem 4.6rem;} #aiform input {padding: 0.5rem; margin: 0.5rem 0.7rem; border: 1px solid #aaa; width: 300px;} #aiform .required {color: red;} </style ><h1>JSight AI</h1 ><p>Our smart JSight AI can automatically improve your \"GYM REST API\" API design. <br />Please fill your name and email and press the \"Improve API\" button.</p ><div ><form id=\"aiform\" ><label for=\"name\">Name <span class=\"required\">*</span></label ><input type=\"text\" id=\"name\"/><br/ ><label for=\"email\">Email <span class=\"required\">*</span></label ><input type=\"text\" id=\"email\"/><br/ ><button>Improve API</button ></form ></div ></body ></html>"
     },
     {
         "id": "R3-jotform-script",
